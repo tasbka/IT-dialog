@@ -1,0 +1,74 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 02.10.2024 14:42
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.11
+WORDPRESS:	6.6.2
+PHP INFO:	7.4.33 | SAPI: apache2handler
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (1024M default) 
+MEMORY STACK: 10MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported
+TABLES: total:16 | filtered:0 | create:16
+FILTERED: []
+SQL CREATED: 20241002_itdialog_b0e9e9d23a19d6453140_20241002144208_database.sql
+SQL FILE SIZE: 24.51MB (25700088)
+SQL FILE TIME: 2024-10-02 14:42:41
+SQL RUNTIME: 1.11 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  D:/Open_Server/OSPanel/home/IT-dialog
+ARCHIVE FILE: 20241002_itdialog_b0e9e9d23a19d6453140_20241002144208_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	188.05MB
+STATS:	Dirs 1,233 | Files 7,768
+SQL ADDED: 20241002_itdialog_b0e9e9d23a19d6453140_20241002144208_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 9001
+    [filename] => D:\Open_Server\OSPanel\home\IT-dialog\wp-content\backups-dup-lite\tmp\20241002_itdialog_b0e9e9d23a19d6453140_20241002144208_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 9000
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 84.29MB
+ARCHIVE RUNTIME: 81.00 sec.
+MEMORY STACK: 14MB
+building installer
+ПРОВЕРКА АРХИВА НА ЦЕЛОСТНОСТЬ: ПРОЙДЕНА
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 24.51MB
+INSTALLER FILE: 73.47KB
+ARCHIVE FILE: 86.2MB 
+ОЖИДАЕМОЕ КОЛИЧЕСТВО ФАЙЛОВ/КАТОЛОГ: 9,001
+ФАКТИЧЕСКОЕ КОЛИЧЕСТВО ФАЙЛОВ/КАТАЛОГОВ: 9,000
+ТЕСТ ЛОГИКИ АРХИВА: Пройден
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 83.52 sec.
+PEAK PHP MEMORY USED: 18MB
+DONE PROCESSING => 20241002_itdialog 02.10.2024 14:44
+
